@@ -1,7 +1,6 @@
 {
-	"name": "web-wringer",
+	"name": "personal-sites-web-ring",
 	"version": 2,
-	"alias": ["webwringer.com"],
 	"github": {
 		"enabled": false,
 		"autoAlias": false

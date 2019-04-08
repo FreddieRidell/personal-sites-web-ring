@@ -1,19 +1,19 @@
 {
-	"title": "Web Wringer 🖇️🕸️",
-	"description": "A webring of webrings",
+	"title": "Personal Sites WebRing",
+	"description": "Personal sites and portfolios of mainly JS developers",
 	"maintainer": {
 		"name": "Freddie Ridell",
 		"link": "https://twitter.com/FreddieRidell"
 	},
 	"repo": {
 		"name": "github",
-		"link": "https://github.com/freddieridell/webwringer"
+		"link": "https://github.com/freddieridell/personal-sites-web-ring"
 	},
 	"sites": [
 		{
-			"title": "Web Wringer",
-			"url": "https://webwringer.com",
-			"description": "A webring of webrings"
+			"title": "FreddieRidell.com",
+			"url": "https://freddieridell.com",
+			"description": "he/him, React Contactor, Decentralization Enthusiast, Seamster"
 		}
 	]
 }

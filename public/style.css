@@ -1,17 +1,18 @@
 :root {
   /* update these variables to easily theme your new web ring */
-  --background-color: floralwhite;
-  --text-color: salmon;
+  --background-color: azure;
+  --text-color: royalblue;
   --divider-color: skyblue;
-  --link-color: cornflowerblue;
-  --link-visited-color: darkmagenta;
-  --link-hover-color: blueviolet;
+  --link-color: darkorange;
+  --link-visited-color: tomato;
+  --link-hover-color: darksalmon;
   --link-active-color: yellow;
 }
 
 * {
   transition: all 0.2s;
 }
+
 html {
   font-family: "sans-serif";
   font-size: 16px;
