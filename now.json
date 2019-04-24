@@ -2,8 +2,8 @@
 	"name": "personal-sites-web-ring",
 	"version": 2,
 	"github": {
-		"enabled": false,
-		"autoAlias": false
+		"enabled": true,
+		"autoAlias": true
 	},
 	"builds": [
 		{ "src": "functions/*.js", "use": "@now/node" },
